@@ -57,3 +57,10 @@ ol, ul
 {
     margin-left: 20px;
 }
+
+.appVersion
+{
+    font-size: 0.7em;
+    font-color: #888888;
+    text-align: center;
+}
