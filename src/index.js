@@ -60,7 +60,7 @@ class Board extends React.Component
     {
         const winner = calculateWinner(this.state.squares);
         //-----------------------------------------
-        let appVersion = "Version 1.3";
+        let appVersion = "Version 1.4";
         //-----------------------------------------
         let status;
         if(winner)
